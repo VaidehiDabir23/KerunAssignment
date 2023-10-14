@@ -1,0 +1,12 @@
+{
+  "search.exclude": {
+    "**/node_modules": true,
+    "**/bower_components": true,
+    "**/.sfdx": true
+  },
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "html.format.indentInnerHtml": true,
+  "html.format.indentHandlebars": true,
+  "html.format.endWithNewline": true
+}
