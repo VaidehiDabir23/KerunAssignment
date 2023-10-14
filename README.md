@@ -9,3 +9,5 @@ Create multiple child records using flow: https://chanukadissanayake.medium.com/
 Associate a contact with opportunity: https://help.salesforce.com/s/articleView?id=000385380&type=1
 Help related to flow: https://developer.salesforce.com/forums/?id=9062I000000DJaHQAW
 
+
+up and down arrows for numbers no more inLWC after Spring'20 release : https://salesforce.stackexchange.com/questions/404474/how-to-enable-the-increment-and-decrement-arrows-in-an-input-element-of-type
